@@ -1,0 +1,3 @@
+[submodule "esb-message-admin"]
+	path = esb-message-admin
+	url = https://github.com/esbtools/esb-message-admin
